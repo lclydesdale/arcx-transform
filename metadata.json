@@ -1,0 +1,5 @@
+{
+  "name": "ARCx Transform Dashboard",
+  "description": "A professional dashboard generator that dynamically formats Airtable data into personalized role and AI audit reports with PDF export functionality.",
+  "requestFramePermissions": []
+}
