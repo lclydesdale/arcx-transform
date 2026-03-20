@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { HashRouter, Routes, Route, Link, useParams } from 'react-router-dom';
-import { fetchAirtableRecords } from './services/airtableService';
+import { fetchAirtableRecords } from './airtableService';
 import { AirtableRecord, AirtableFields } from './types';
 import IndividualDashboard from './components/IndividualDashboard';
 import LoginPage from './components/LoginPage';
